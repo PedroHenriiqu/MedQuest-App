@@ -6,15 +6,15 @@
 ## 🎮 Como executar:
 1. Baixei o Projeto.
 2. Modo:
-   2.1. 1° modo:
-      1. Abra o Visual Studio Code.
-      2. Abra o projeto na pasta indicada no final do arquivo README.md.
-      3. Execute o arquivo main.dart pelo debugger do python(Observer os requisitos, pois ira precisar).
+   1° modo:
+      - Abra o Visual Studio Code.
+      - Abra o projeto na pasta indicada no final do arquivo README.md.
+      - Execute o arquivo main.dart pelo debugger do python(Observer os requisitos, pois ira precisar).
          
-   2.2. 2° modo:
-      1. Abra o terminal na pasta do projeto.
-      2. Abra o projeto na pasta indicada no final do arquivo README.md.
-      3. Com o terminal aberto e na pasta indicada, execute o comando "flutter run -d chrome", isso ira compilar seu projeto para Flutter Web e abrirar no navegador chrome, cass queira usar outro navegador basta mudar o "chrome" para outro navegador desejável.
+   2° modo:
+      - Abra o terminal na pasta do projeto.
+      - Abra o projeto na pasta indicada no final do arquivo README.md.
+      - Com o terminal aberto e na pasta indicada, execute o comando "flutter run -d chrome", isso ira compilar seu projeto para Flutter Web e abrirar no navegador chrome, cass queira usar outro navegador basta mudar o "chrome" para outro navegador desejável.
          
 ## ✅ Requisitos:
 - Precisa do Python instalado na maquina.
